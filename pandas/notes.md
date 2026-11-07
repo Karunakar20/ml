@@ -18,8 +18,11 @@ Pandas is an open-source Python library used for:
 In Pandas, Series and DataFrame are the two fundamental data structures used to store, manipulate, and analyze data.
 
 The main difference is:
-- Series: One-dimensional data (single column).
-- DataFrame: Two-dimensional data (multiple rows and columns).
+
+- **Series:** A one-dimensional labeled array capable of holding any data type, including integers, strings, floating-point numbers, and Python objects. Its axis labels are collectively called the **index**. A Pandas Series is similar to a fixed-size dictionary, allowing you to access and modify values using index labels.
+
+- **DataFrame:** A two-dimensional data structure consisting of rows and columns. It can store different data types (integers, strings, floating-point numbers, etc.) in different columns. Each column in a DataFrame is a Pandas Series, and rows represent individual records.
+
 
 ## 3. Why Doesn't Pandas Support Native 3D DataFrames?
 
