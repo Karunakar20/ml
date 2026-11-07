@@ -24,7 +24,7 @@ The main difference is:
 ## 3. Why Doesn't Pandas Support Native 3D DataFrames?
 Pandas was primarily designed for structured and tabular data analysis.
 
-Its two main data structures, Series and DataFrame, are optimized for one-dimensional and two-dimensional data.
+# Its two main data structures, Series and DataFrame, are optimized for one-dimensional and two-dimensional data.
 
 A traditional DataFrame represents information using rows and columns. Adding a third axis would require another level of indexing and data organization.
 
