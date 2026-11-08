@@ -17,4 +17,5 @@ df["Bonus"] = df["Salary_INR"] * 0.10
 # df.to_pickle("employees.pkl")
 # print(df.describe())
 # print(df.head())
+
 print(df.isnull().sum())
