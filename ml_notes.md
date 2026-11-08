@@ -1,6 +1,6 @@
 ## Machine Learning 
 
-
+![Machine Learning Complete Notes](assets/ml_types_and_categories.png)
 
 # ML Model steps - Liner Regression
 
@@ -956,4 +956,4 @@ Important: Steps 7 and 8 should be implemented inside a preprocessing pipeline w
 **Final Note:** Mean, Median, Mode, Scaling, and Encoding are fundamental data preprocessing concepts. Understanding when and why to use each technique is essential before building practical Machine Learning models.
 
 
-![Machine Learning Complete Notes](Machine Learning Complete Notes Infographic.png)
+![Machine Learning Complete Notes](assets/ml_data_preprocessing_notes.png)
